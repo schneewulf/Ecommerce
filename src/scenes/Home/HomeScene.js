@@ -64,7 +64,7 @@ export default class HomeScene extends Component<Props, State> {
             alignSelf: 'stretch',
           }}
         >
-          <Text>{`${param} ganteng`}</Text>
+          <Text>{`${param} ganteng bnget deh`}</Text>
           <Text>{`${pass} ds`}</Text>
         </View>
       </View>
